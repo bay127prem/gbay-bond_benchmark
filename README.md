@@ -62,6 +62,3 @@ python gbay_bench_all.py --models models.json --datasets datasets.json --epochs 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-Feel free to modify this template to fit the specifics of your project. Let me know if you need any more details or additional sections!
