@@ -43,8 +43,6 @@ python gbay_bench_all.py --models models.json --datasets datasets.json --epochs 
 
 ### Command Parameters
 
-- `gbay_bench_all.py`: The benchmarking script that runs the specified algorithms on the provided datasets without distinguishing between contextual and structural anomalies.
-
 - `--models models.json`: Specifies the JSON file containing the model configurations. Each model listed in this file will be used in the benchmarking process.
 
 - `--datasets datasets.json`: Specifies the JSON file containing the dataset configurations. Each dataset listed in this file will be used in the benchmarking process.
